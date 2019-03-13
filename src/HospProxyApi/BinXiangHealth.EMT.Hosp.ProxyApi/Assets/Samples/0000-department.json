@@ -1,0 +1,218 @@
+{
+    "result": "success",
+    "message": "",
+    "data": [
+        {
+            "code": "2191",
+            "name": "口腔科门诊",
+            "spellCode": "KQKMZ",
+            "wbCode": "KETUY",
+            "memo": ""
+        },
+        {
+            "code": "2011",
+            "name": "内科门诊",
+            "spellCode": "NKMZ",
+            "wbCode": "MTUY",
+            "memo": ""
+        },
+        {
+            "code": "2021",
+            "name": "呼吸内科门诊",
+            "spellCode": "HXNKMZ",
+            "wbCode": "KKMTUY",
+            "memo": ""
+        },
+        {
+            "code": "2031",
+            "name": "康复科门诊",
+            "spellCode": "KFKMZ",
+            "wbCode": "YTTUY",
+            "memo": ""
+        },
+        {
+            "code": "2041",
+            "name": "内分泌科门诊",
+            "spellCode": "NFMKMZ",
+            "wbCode": "MWITUY",
+            "memo": ""
+        },
+        {
+            "code": "2051",
+            "name": "神经内科门诊",
+            "spellCode": "SJNKMZ",
+            "wbCode": "PXMTUY",
+            "memo": ""
+        },
+        {
+            "code": "2061",
+            "name": "肾内科门诊",
+            "spellCode": "SNKMZ",
+            "wbCode": "JMTUY",
+            "memo": ""
+        },
+        {
+            "code": "2071",
+            "name": "风湿免疫科门诊",
+            "spellCode": "FSMYKMZ",
+            "wbCode": "MIQUTUY",
+            "memo": ""
+        },
+        {
+            "code": "2081",
+            "name": "消化内科门诊",
+            "spellCode": "XHNKMZ",
+            "wbCode": "IWMTUY",
+            "memo": ""
+        },
+        {
+            "code": "2091",
+            "name": "妇产科门诊",
+            "spellCode": "FCKMZ",
+            "wbCode": "VUTUY",
+            "memo": ""
+        },
+        {
+            "code": "2101",
+            "name": "小儿内科门诊",
+            "spellCode": "XENKMZ",
+            "wbCode": "IQMTUY",
+            "memo": ""
+        },
+        {
+            "code": "2120",
+            "name": "发热门诊",
+            "spellCode": "FRMZ",
+            "wbCode": "NRUY",
+            "memo": ""
+        },
+        {
+            "code": "2131",
+            "name": "外科门诊",
+            "spellCode": "WKMZ",
+            "wbCode": "QTUY",
+            "memo": ""
+        },
+        {
+            "code": "2141",
+            "name": "眼科门诊",
+            "spellCode": "YKMZ",
+            "wbCode": "HTUY",
+            "memo": ""
+        },
+        {
+            "code": "2151",
+            "name": "整形科门诊",
+            "spellCode": "ZXKMZ",
+            "wbCode": "GGTUY",
+            "memo": ""
+        },
+        {
+            "code": "2161",
+            "name": "神经外科门诊",
+            "spellCode": "SJWKMZ",
+            "wbCode": "PXQTUY",
+            "memo": ""
+        },
+        {
+            "code": "2171",
+            "name": "手足外科门诊",
+            "spellCode": "SZWKMZ",
+            "wbCode": "RKQTUY",
+            "memo": ""
+        },
+        {
+            "code": "2181",
+            "name": "泌尿外科门诊",
+            "spellCode": "MNWKMZ",
+            "wbCode": "INQTUY",
+            "memo": ""
+        },
+        {
+            "code": "2201",
+            "name": "骨科门诊",
+            "spellCode": "GKMZ",
+            "wbCode": "MTUY",
+            "memo": ""
+        },
+        {
+            "code": "2221",
+            "name": "耳鼻喉科门诊",
+            "spellCode": "EBHKMZ",
+            "wbCode": "BTKTUY",
+            "memo": ""
+        },
+        {
+            "code": "2230",
+            "name": "针灸理疗科",
+            "spellCode": "ZJLLK",
+            "wbCode": "QQGUT",
+            "memo": ""
+        },
+        {
+            "code": "2241",
+            "name": "中医科",
+            "spellCode": "ZYK",
+            "wbCode": "KAT",
+            "memo": ""
+        },
+        {
+            "code": "2242",
+            "name": "中医名医馆",
+            "spellCode": "ZYMYG",
+            "wbCode": "KAQAQ",
+            "memo": ""
+        },
+        {
+            "code": "2243",
+            "name": "中医疼痛门诊",
+            "spellCode": "ZYTTMZ",
+            "wbCode": "KAUUUY",
+            "memo": ""
+        },
+        {
+            "code": "3060",
+            "name": "碎石科",
+            "spellCode": "SSK",
+            "wbCode": "DDT",
+            "memo": ""
+        },
+        {
+            "code": "2106",
+            "name": "小儿外科门诊",
+            "spellCode": "XEWKMZ",
+            "wbCode": "IQQTUY",
+            "memo": ""
+        },
+        {
+            "code": "2109",
+            "name": "心内科门诊",
+            "spellCode": "XNKMZ",
+            "wbCode": "NMTUY",
+            "memo": ""
+        },
+        {
+            "code": "2400",
+            "name": "体检中心门诊",
+            "spellCode": "TJZXMZ",
+            "wbCode": "WSKNUY",
+            "memo": ""
+        },
+        {
+            "code": "2301",
+            "name": "血透室门诊",
+            "spellCode": "XTSMZ",
+            "wbCode": "TTPUY",
+            "memo": ""
+        },
+        {
+            "code": "2501",
+            "name": "急诊妇科门诊",
+            "spellCode": "JZFKMZ",
+            "wbCode": "QYVTUY",
+            "memo": ""
+        }
+    ],
+    "funName": 1,
+    "outString": null
+}

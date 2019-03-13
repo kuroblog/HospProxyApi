@@ -1,0 +1,78 @@
+{
+    "result": "success",
+    "message": "",
+    "data": [
+        {
+            "code": "10",
+            "name": "体检号",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "1",
+            "name": "门诊诊查费",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "2",
+            "name": "急诊挂号诊查费",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "3",
+            "name": "专家门诊诊查费(副高)",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "4",
+            "name": "专家门诊诊查费(正高)",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "5",
+            "name": "门急诊留观诊查费",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "6",
+            "name": "义诊号",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "7",
+            "name": "特需专家门诊50",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "8",
+            "name": "特需专家门诊100",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "9",
+            "name": "特需专家门诊300",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        }
+    ],
+    "funName": 1,
+    "outString": null
+}

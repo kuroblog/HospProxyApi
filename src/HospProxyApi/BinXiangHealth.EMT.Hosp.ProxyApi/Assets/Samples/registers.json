@@ -1,0 +1,80 @@
+{
+    "result": "success",
+    "message": "",
+    "data": {
+        "ListRegister": [
+            {
+                "state": "1",
+                "deptName": "",
+                "regType": "1",
+                "visitDate": "2018/11/28 11:21:24",
+                "docName": "陈平",
+                "docTitle": "副主任医师",
+                "total": 14,
+                "cardNo": "0000086027",
+                "name": "胡天水",
+                "operDate": "2018/11/28 9:45:50",
+                "seeNo": "7",
+                "clinicNo": "197331"
+            },
+            {
+                "state": "1",
+                "deptName": "",
+                "regType": "1",
+                "visitDate": "2018/11/28 11:21:24",
+                "docName": "陈平",
+                "docTitle": "副主任医师",
+                "total": 14,
+                "cardNo": "0000086027",
+                "name": "胡天水",
+                "operDate": "2018/11/28 9:45:50",
+                "seeNo": "7",
+                "clinicNo": "197331"
+            },
+            {
+                "state": "1",
+                "deptName": "",
+                "regType": "1",
+                "visitDate": "2018/11/28 11:21:24",
+                "docName": "陈平",
+                "docTitle": "副主任医师",
+                "total": 14,
+                "cardNo": "0000086027",
+                "name": "胡天水",
+                "operDate": "2018/11/28 9:45:50",
+                "seeNo": "7",
+                "clinicNo": "197331"
+            },
+            {
+                "state": "1",
+                "deptName": "",
+                "regType": "1",
+                "visitDate": "2018/11/28 11:21:24",
+                "docName": "陈平",
+                "docTitle": "副主任医师",
+                "total": 14,
+                "cardNo": "0000086027",
+                "name": "胡天水",
+                "operDate": "2018/11/28 9:45:50",
+                "seeNo": "7",
+                "clinicNo": "197331"
+            },
+            {
+                "state": "1",
+                "deptName": "",
+                "regType": "1",
+                "visitDate": "2018/11/28 11:21:24",
+                "docName": "陈平",
+                "docTitle": "副主任医师",
+                "total": 14,
+                "cardNo": "0000086027",
+                "name": "胡天水",
+                "operDate": "2018/11/28 9:45:50",
+                "seeNo": "7",
+                "clinicNo": "197331"
+            }
+        ]
+    },
+    "funName": 33,
+    "outString": null
+}

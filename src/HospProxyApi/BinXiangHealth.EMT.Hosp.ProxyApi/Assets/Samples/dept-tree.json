@@ -1,0 +1,452 @@
+{
+    "result": "success",
+    "message": "",
+    "data": [
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2191",
+                    "DeptName": "口腔科门诊",
+                    "SimpleName": "口腔科门诊"
+                }
+            ],
+            "ParentCode": "2190",
+            "ParentName": "口腔科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2011",
+                    "DeptName": "内科门诊",
+                    "SimpleName": "内科门诊"
+                }
+            ],
+            "ParentCode": "2010",
+            "ParentName": "内科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2021",
+                    "DeptName": "呼吸内科门诊",
+                    "SimpleName": "呼吸内科门诊"
+                }
+            ],
+            "ParentCode": "2020",
+            "ParentName": "呼吸内科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "0006",
+                    "DeptName": "测试科室",
+                    "SimpleName": "测试科室"
+                },
+                {
+                    "DeptCode": "2120",
+                    "DeptName": "发热门诊",
+                    "SimpleName": "发热门诊"
+                },
+                {
+                    "DeptCode": "2230",
+                    "DeptName": "针灸理疗科",
+                    "SimpleName": "针灸理疗科"
+                }
+            ],
+            "ParentCode": "2000",
+            "ParentName": "临床"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2031",
+                    "DeptName": "康复科门诊",
+                    "SimpleName": "康复科门诊"
+                }
+            ],
+            "ParentCode": "2030",
+            "ParentName": "康复科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2041",
+                    "DeptName": "内分泌科门诊",
+                    "SimpleName": "内分泌科门诊"
+                }
+            ],
+            "ParentCode": "2040",
+            "ParentName": "内分泌科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2051",
+                    "DeptName": "神经内科门诊",
+                    "SimpleName": "神经内科门诊"
+                }
+            ],
+            "ParentCode": "2050",
+            "ParentName": "神经内科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2061",
+                    "DeptName": "肾内科门诊",
+                    "SimpleName": "肾内科门诊"
+                }
+            ],
+            "ParentCode": "2060",
+            "ParentName": "肾内科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2071",
+                    "DeptName": "风湿免疫科门诊",
+                    "SimpleName": "风湿免疫科门诊"
+                }
+            ],
+            "ParentCode": "2070",
+            "ParentName": "风湿免疫科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2081",
+                    "DeptName": "消化内科门诊",
+                    "SimpleName": "消化内科门诊"
+                }
+            ],
+            "ParentCode": "2080",
+            "ParentName": "消化内科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2091",
+                    "DeptName": "妇产科门诊",
+                    "SimpleName": "妇产科门诊"
+                },
+                {
+                    "DeptCode": "2111",
+                    "DeptName": "急诊门诊",
+                    "SimpleName": "急诊门诊"
+                }
+            ],
+            "ParentCode": "AAAA",
+            "ParentName": "分诊科室"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2091",
+                    "DeptName": "妇产科门诊",
+                    "SimpleName": "妇产科门诊"
+                }
+            ],
+            "ParentCode": "2090",
+            "ParentName": "妇产科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2101",
+                    "DeptName": "小儿内科门诊",
+                    "SimpleName": "小儿内科门诊"
+                }
+            ],
+            "ParentCode": "2100",
+            "ParentName": "小儿内科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2091",
+                    "DeptName": "妇产科门诊",
+                    "SimpleName": "妇产科门诊"
+                },
+                {
+                    "DeptCode": "2111",
+                    "DeptName": "急诊门诊",
+                    "SimpleName": "急诊门诊"
+                }
+            ],
+            "ParentCode": "AAAA",
+            "ParentName": "分诊科室"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2111",
+                    "DeptName": "急诊门诊",
+                    "SimpleName": "急诊门诊"
+                }
+            ],
+            "ParentCode": "2110",
+            "ParentName": "急诊科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "0006",
+                    "DeptName": "测试科室",
+                    "SimpleName": "测试科室"
+                },
+                {
+                    "DeptCode": "2120",
+                    "DeptName": "发热门诊",
+                    "SimpleName": "发热门诊"
+                },
+                {
+                    "DeptCode": "2230",
+                    "DeptName": "针灸理疗科",
+                    "SimpleName": "针灸理疗科"
+                }
+            ],
+            "ParentCode": "2000",
+            "ParentName": "临床"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2131",
+                    "DeptName": "外科门诊",
+                    "SimpleName": "外科门诊"
+                }
+            ],
+            "ParentCode": "2130",
+            "ParentName": "外科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2141",
+                    "DeptName": "眼科门诊",
+                    "SimpleName": "眼科门诊"
+                }
+            ],
+            "ParentCode": "2140",
+            "ParentName": "眼科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2151",
+                    "DeptName": "整形科门诊",
+                    "SimpleName": "整形科门诊"
+                }
+            ],
+            "ParentCode": "2150",
+            "ParentName": "整形科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2161",
+                    "DeptName": "神经外科门诊",
+                    "SimpleName": "神经外科门诊"
+                }
+            ],
+            "ParentCode": "2160",
+            "ParentName": "神经外科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2171",
+                    "DeptName": "手足外科门诊",
+                    "SimpleName": "手足外科门诊"
+                }
+            ],
+            "ParentCode": "2170",
+            "ParentName": "手足外科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2181",
+                    "DeptName": "泌尿外科门诊",
+                    "SimpleName": "泌尿外科门诊"
+                }
+            ],
+            "ParentCode": "2180",
+            "ParentName": "泌尿外科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2201",
+                    "DeptName": "骨科门诊",
+                    "SimpleName": "骨科门诊"
+                }
+            ],
+            "ParentCode": "2200",
+            "ParentName": "骨科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2221",
+                    "DeptName": "耳鼻喉科门诊",
+                    "SimpleName": "耳鼻喉科门诊"
+                }
+            ],
+            "ParentCode": "2220",
+            "ParentName": "耳鼻喉科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "0006",
+                    "DeptName": "测试科室",
+                    "SimpleName": "测试科室"
+                },
+                {
+                    "DeptCode": "2120",
+                    "DeptName": "发热门诊",
+                    "SimpleName": "发热门诊"
+                },
+                {
+                    "DeptCode": "2230",
+                    "DeptName": "针灸理疗科",
+                    "SimpleName": "针灸理疗科"
+                }
+            ],
+            "ParentCode": "2000",
+            "ParentName": "临床"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2241",
+                    "DeptName": "中医科",
+                    "SimpleName": "中医科"
+                },
+                {
+                    "DeptCode": "2242",
+                    "DeptName": "中医名医馆",
+                    "SimpleName": "中医名医馆"
+                },
+                {
+                    "DeptCode": "2243",
+                    "DeptName": "中医疼痛门诊",
+                    "SimpleName": "中医疼痛门诊"
+                }
+            ],
+            "ParentCode": "2240",
+            "ParentName": "中医"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2241",
+                    "DeptName": "中医科",
+                    "SimpleName": "中医科"
+                },
+                {
+                    "DeptCode": "2242",
+                    "DeptName": "中医名医馆",
+                    "SimpleName": "中医名医馆"
+                },
+                {
+                    "DeptCode": "2243",
+                    "DeptName": "中医疼痛门诊",
+                    "SimpleName": "中医疼痛门诊"
+                }
+            ],
+            "ParentCode": "2240",
+            "ParentName": "中医"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2241",
+                    "DeptName": "中医科",
+                    "SimpleName": "中医科"
+                },
+                {
+                    "DeptCode": "2242",
+                    "DeptName": "中医名医馆",
+                    "SimpleName": "中医名医馆"
+                },
+                {
+                    "DeptCode": "2243",
+                    "DeptName": "中医疼痛门诊",
+                    "SimpleName": "中医疼痛门诊"
+                }
+            ],
+            "ParentCode": "2240",
+            "ParentName": "中医"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "3060",
+                    "DeptName": "碎石科",
+                    "SimpleName": "碎石科"
+                }
+            ],
+            "ParentCode": "3000",
+            "ParentName": "医技"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2106",
+                    "DeptName": "小儿外科门诊",
+                    "SimpleName": "小儿外科门诊"
+                }
+            ],
+            "ParentCode": "2105",
+            "ParentName": "小儿外科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2109",
+                    "DeptName": "心内科门诊",
+                    "SimpleName": "心内科门诊"
+                }
+            ],
+            "ParentCode": "2108",
+            "ParentName": "心内科"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2400",
+                    "DeptName": "体检中心门诊",
+                    "SimpleName": "体检中心门诊"
+                }
+            ],
+            "ParentCode": "2270",
+            "ParentName": "体检中心"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2301",
+                    "DeptName": "血透室门诊",
+                    "SimpleName": "血透室门诊"
+                }
+            ],
+            "ParentCode": "2300",
+            "ParentName": "血透室"
+        },
+        {
+            "childrenList": [
+                {
+                    "DeptCode": "2501",
+                    "DeptName": "急诊妇科门诊",
+                    "SimpleName": "急诊妇科门诊"
+                }
+            ],
+            "ParentCode": "2500",
+            "ParentName": "急诊妇科"
+        }
+    ],
+    "funName": 34,
+    "outString": null
+}

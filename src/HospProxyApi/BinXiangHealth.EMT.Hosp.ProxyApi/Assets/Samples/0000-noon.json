@@ -1,0 +1,29 @@
+{
+    "result": "success",
+    "message": "",
+    "data": [
+        {
+            "code": "1",
+            "name": "上午",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "2",
+            "name": "下午",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "3",
+            "name": "晚上",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        }
+    ],
+    "funName": 1,
+    "outString": null
+}

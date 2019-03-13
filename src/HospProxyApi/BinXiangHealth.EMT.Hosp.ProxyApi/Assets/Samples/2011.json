@@ -1,0 +1,15 @@
+{
+    "result": "success",
+    "message": "",
+    "data": {
+        "hisRegisterId": "203275",
+        "registerId": null,
+        "tradeNo": "Z00000039018",
+        "vancy": "",
+        "seeNo": "0",
+        "address": "",
+        "deptname": "内分泌科门诊"
+    },
+    "funName": 0,
+    "outString": null
+}

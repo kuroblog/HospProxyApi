@@ -1,0 +1,15 @@
+{
+    "result": "success",
+    "message": "",
+    "data": {
+        "hisRegisterId": "196794",
+        "registerId": null,
+        "tradeNo": "Z00000036645",
+        "vancy": "",
+        "seeNo": "32",
+        "address": "",
+        "deptname": ""
+    },
+    "funName": 10,
+    "outString": null
+}

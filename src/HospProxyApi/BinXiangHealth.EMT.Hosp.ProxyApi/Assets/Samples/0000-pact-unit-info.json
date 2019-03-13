@@ -1,0 +1,64 @@
+{
+    "result": "success",
+    "message": "",
+    "data": [
+        {
+            "code": "8",
+            "name": "集团内部",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "1",
+            "name": "自费",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "3",
+            "name": "金华医保",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "5",
+            "name": "合作医院",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "7",
+            "name": "绿色通道",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "2",
+            "name": "异地市域",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "20",
+            "name": "异地省域",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "6",
+            "name": "健保通",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        }
+    ],
+    "funName": 1,
+    "outString": null
+}

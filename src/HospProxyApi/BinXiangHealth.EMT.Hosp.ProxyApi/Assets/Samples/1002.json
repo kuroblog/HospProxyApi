@@ -1,0 +1,20 @@
+{
+    "result": "success",
+    "message": "",
+    "data": {
+        "cardNo": "0000086027",
+        "name": "胡天水",
+        "vacancy": null,
+        "sex": "男",
+        "birthday": "1976-10-24",
+        "linkman_name": null,
+        "linkman_add": null,
+        "linkman_tel": null,
+        "bingliCost": null,
+        "pactCode": null,
+        "idno": "350424197610240015",
+        "idno2": null
+    },
+    "funName": 2,
+    "outString": null
+}

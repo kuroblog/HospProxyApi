@@ -1,0 +1,64 @@
+{
+    "result": "success",
+    "message": "",
+    "data": [
+        {
+            "code": "03",
+            "name": "公费",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "01",
+            "name": "自费",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "02",
+            "name": "医保",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "03",
+            "name": "公费",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "01",
+            "name": "自费",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "02",
+            "name": "医保",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "02",
+            "name": "医保",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        },
+        {
+            "code": "03",
+            "name": "公费",
+            "spellCode": "",
+            "wbCode": "",
+            "memo": ""
+        }
+    ],
+    "funName": 1,
+    "outString": null
+}

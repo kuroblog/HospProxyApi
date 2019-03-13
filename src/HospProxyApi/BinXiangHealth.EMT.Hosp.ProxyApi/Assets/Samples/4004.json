@@ -1,0 +1,15 @@
+{
+    "result": "success",
+    "message": "",
+    "data": {
+        "windowNo": "-",
+        "invoiceNo": "Z00000031973",
+        "invoiceSeq": "428068",
+        "siTradeNo": null,
+        "vancy": null,
+        "deptname": null,
+        "FeeItemList": null
+    },
+    "funName": 16,
+    "outString": null
+}
